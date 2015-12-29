@@ -23,6 +23,9 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough 
+//Please click on the link 
+https://gfycat.com/BoldLinearBear
+
 
 Here's a walkthrough of implemented user stories:
 
